@@ -1,0 +1,28 @@
+/**
+ * Project - 2 : ReactJS API Consume - getAll, getByID, Add, Edit, Delete (CRUD Operation)
+ * Task 1 : Students
+ * @author Madhav Kotecha
+ * Enrolment No. : 210540107501
+ * Roll No. : 437
+ * Class : BCZ-2
+ * Date : 8th September 2022
+ */
+
+ol:before,
+ul:before {
+  content: attr(aria-label);
+  font-size: 120%;
+  font-weight: bold;
+  margin-left: -15px;
+}
+
+form {
+  background-color: #f7f7f7;
+  font-family: Inter, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
